@@ -1,0 +1,14 @@
+/home/jessica/productAPI/src/main/java/com/challenge/productAPI/model/Client.java
+/home/jessica/productAPI/src/main/java/com/challenge/productAPI/model/ProductSellingRestrictions.java
+/home/jessica/productAPI/src/main/java/com/challenge/productAPI/repository/ProductSellingRestrictionsRepository.java
+/home/jessica/productAPI/src/main/java/com/challenge/productAPI/service/TaxesService.java
+/home/jessica/productAPI/src/main/java/com/challenge/productAPI/ProductApiApplication.java
+/home/jessica/productAPI/src/main/java/com/challenge/productAPI/model/Taxes.java
+/home/jessica/productAPI/src/main/java/com/challenge/productAPI/controller/productController.java
+/home/jessica/productAPI/src/main/java/com/challenge/productAPI/model/Product.java
+/home/jessica/productAPI/src/main/java/com/challenge/productAPI/repository/ProductRepository.java
+/home/jessica/productAPI/src/main/java/com/challenge/productAPI/repository/ClientRepository.java
+/home/jessica/productAPI/src/main/java/com/challenge/productAPI/service/ProductSellingRestrictionsService.java
+/home/jessica/productAPI/src/main/java/com/challenge/productAPI/service/ClientService.java
+/home/jessica/productAPI/src/main/java/com/challenge/productAPI/repository/TaxesRepository.java
+/home/jessica/productAPI/src/main/java/com/challenge/productAPI/service/ProductService.java
